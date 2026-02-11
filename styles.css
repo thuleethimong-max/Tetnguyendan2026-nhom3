@@ -1,4 +1,11 @@
-﻿.banner {
+<style>
+h1 {
+    font-size: 80px;}
+h1 {
+    color: red;
+    }
+</style>
+.banner {
     background: url("img/nen.jpg") no-repeat center center;
     background-size: cover; /*Hình ảnh có thể bị cắt để lấp đầy toàn bộ phần tử*/
     padding-top: 12rem;
@@ -62,6 +69,7 @@
 }
 a:hover{
     color: magenta
+
 
 
 
